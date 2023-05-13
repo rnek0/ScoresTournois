@@ -1,0 +1,62 @@
+﻿<Window x:Class="ScoresTournoisAzertyClub.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
+        xmlns:tb="clr-namespace:ScoresTournoisAzertyClub"
+        Title="AzertyCompteur" Cursor="Cross" Height="768" Width="1024" WindowState="Maximized"  KeyDown="Window_KeyDown" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Window.Resources>
+        <Style x:Key="MonStyleRouge">
+            <Setter Property="Path.Fill" Value="Red"></Setter>
+            <Setter Property="Path.Stroke" Value="Black"></Setter>
+            <Setter Property="Path.StrokeThickness" Value="2"></Setter>
+            <Setter Property="Path.HorizontalAlignment" Value="Stretch"></Setter>
+        </Style>
+        <Style x:Key="MonStyleBleu" BasedOn="{StaticResource MonStyleRouge}">
+            <Setter Property="Path.Fill" Value="Blue"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid ShowGridLines="True">
+        <!-- Avec le fond de fenetre noir on perd l'opacité de l'image !!! -->
+        <Grid>
+            <Rectangle Width="1024" Height="768" Stroke="Black" Opacity="0.2"></Rectangle>
+            <Image Name="fond" Opacity="0.6"/>            
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="220"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <tb:TexteBordure x:Name="TexteTournoi" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Center"></tb:TexteBordure>
+            <Label Name="lblTournoi" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Content="Counter Strike" FontSize="72" FlowDirection="LeftToRight" Foreground="Yellow" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Padding="5,25,5,5" Opacity="0.2" />
+            <Rectangle Grid.Row="1" Grid.Column="1" Height="19" HorizontalAlignment="Center" Width="60" Name="rectangle1" Stroke="Black" VerticalAlignment="Center" Fill="Black" />
+            <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Margin="5" ShowGridLines="True" VerticalAlignment="Stretch">
+                <UniformGrid Rows="1" Columns="2" HorizontalAlignment="Stretch" Margin="0" Width="Auto" Height="483" VerticalAlignment="Stretch">                    
+                    <Grid Name="gauche">
+                        <tb:TexteBordure x:Name="TexteEquipe1" HorizontalAlignment="Center"></tb:TexteBordure>
+                        <tb:TexteBordure x:Name="ScoreEquipe1" HorizontalAlignment="Center" VerticalAlignment="Bottom"></tb:TexteBordure>                        
+                    </Grid>                    
+                    <Grid Name="droite">
+                        <tb:TexteBordure x:Name="TexteEquipe2" HorizontalAlignment="Center"></tb:TexteBordure>
+                        <tb:TexteBordure x:Name="ScoreEquipe2" HorizontalAlignment="Center" VerticalAlignment="Bottom"></tb:TexteBordure>                        
+                    </Grid>                    
+                </UniformGrid>
+            </Grid>
+        </Grid>
+        <Grid>
+        <Canvas>
+                <Label Visibility="Hidden" Canvas.Left="204" Canvas.Top="497" Content="Equipe1" Height="28" Name="lblEquipe1"/>
+                <Label Visibility="Hidden" Canvas.Top="515"  Canvas.Right="200"  Content="0" Height="91" HorizontalAlignment="Center" Name="label1" VerticalAlignment="Center" Width="Auto" FontSize="72" BorderBrush="#FFEF1212" Foreground="#3B000000" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                <Label Visibility="Hidden" Canvas.Top="515" Canvas.Left="485" Content="-" Height="91" HorizontalAlignment="Center" Name="lblSeparation" HorizontalContentAlignment="Center" VerticalAlignment="Center" Width="Auto" FontSize="72"/>
+                <Label Visibility="Hidden" Canvas.Left="753" Canvas.Top="497" Content="Equipe2" Height="28" Name="lblEquipe2" />
+                <Label Visibility="Hidden" Canvas.Top="515"  Canvas.Left="200" Content="0" Height="91" HorizontalAlignment="Center" Name="label2" VerticalAlignment="Center" Width="Auto" FontSize="72" BorderBrush="#FFEF1212" Foreground="#3B000000" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        </Canvas>
+            <Label Visibility="Hidden" Name="ChaineImage"></Label>
+            <Label Visibility="Hidden" Name="ChaineRB"></Label>
+            
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\bin\Debug\ScoresTournoisAzertyClub.exe
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\bin\Debug\ScoresTournoisAzertyClub.pdb
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\MainWindow.baml
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\App.g.cs
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub_MarkupCompile.cache
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.g.resources
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.Properties.Resources.resources
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.exe
+C:\Users\Tony_2\AppData\Local\Temporary Projects\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.pdb
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.exe
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.pdb
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\bin\Debug\ScoresTournoisAzertyClub.exe
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\bin\Debug\ScoresTournoisAzertyClub.pdb
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\MainWindow.baml
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\App.g.cs
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub_MarkupCompile.cache
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.g.resources
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub.Properties.Resources.resources
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\Menu.baml
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\Menu.g.cs
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\TexteBordure.baml
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\TexteBordure.g.cs
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\ScoresTournoisAzertyClub_MarkupCompile.lref
+C:\Users\Tony_2\Desktop\AZERTYCLUB\ScoresTournoisAzertyClub\ScoresTournoisAzertyClub\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
